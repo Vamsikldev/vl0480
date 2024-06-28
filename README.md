@@ -36,13 +36,15 @@ Checkout requires the following information to be provided:
 
 1. Clone the repository:
     
-    git clone https://github.com/Vamsikldev/kl0480.git
-    cd kl0480    
+    git clone https://github.com/Vamsikldev/vl0480.git
+    cd vl0480    
 
 2. Build the project using Maven:
 
     mvn clean install
     Above command Run the test cases 
     
-
-
+3. To run the test cases:
+ 
+    mvn test
+    
